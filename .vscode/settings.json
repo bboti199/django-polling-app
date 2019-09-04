@@ -1,3 +1,6 @@
 {
-  "python.pythonPath": "/home/boti/.local/share/virtualenvs/django-polls-Ng6SUwwx/bin/python"
+  "python.pythonPath": "/home/boti/.local/share/virtualenvs/django-polls-Ng6SUwwx/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.pep8Enabled": true,
+  "python.linting.enabled": true
 }
